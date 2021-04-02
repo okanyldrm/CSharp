@@ -53,7 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsInterface", "Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsMethods", "GenericsMethods\GenericsMethods.csproj", "{01CBFEAE-D26D-4A41-989D-0E9A503673B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{FF2E5492-8C53-462E-802B-8AF61C8B67A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileIO", "FileIO\FileIO.csproj", "{FF2E5492-8C53-462E-802B-8AF61C8B67A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqLinq", "LinqLinq\LinqLinq.csproj", "{16E8E210-AA78-4EF6-85C8-531A1518DDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexadecimalConvert", "HexadecimalConvert\HexadecimalConvert.csproj", "{89971A03-335C-462F-A976-F6CC715B5C8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{FF2E5492-8C53-462E-802B-8AF61C8B67A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2E5492-8C53-462E-802B-8AF61C8B67A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2E5492-8C53-462E-802B-8AF61C8B67A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E8E210-AA78-4EF6-85C8-531A1518DDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8E210-AA78-4EF6-85C8-531A1518DDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8E210-AA78-4EF6-85C8-531A1518DDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8E210-AA78-4EF6-85C8-531A1518DDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89971A03-335C-462F-A976-F6CC715B5C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89971A03-335C-462F-A976-F6CC715B5C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89971A03-335C-462F-A976-F6CC715B5C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89971A03-335C-462F-A976-F6CC715B5C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
